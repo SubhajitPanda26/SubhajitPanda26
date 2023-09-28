@@ -1,14 +1,16 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hola! 👋, I'm Subhajit Panda</h1>
 <h3 align="center">A passionate developer with a love for coding...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhajitPanda26&label=Profile%20views&color=0e75b6&style=flat" alt="SubhajitPanda26" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 - 🔭 I’m currently working on **Antique & Curio website using MERN stack**
 - 🌱 I’m currently learning **React, Node js, MongoDB**
 - 💬 Ask me about **HTML, CSS, Javascript, Java, C, AWS**
 - 📫 How to reach me **subhajit26302@gmail.com**
 - 📄 Know about my experiences **cv.pdf**
-- ⚡ Fun fact **🤖 In "Iron Man," Tony Stark's AI assistant J.A.R.V.I.S. stands for "Just A Rather Very Intelligent System," showcasing the power of AI in everyday life.**
 
 <div> <a href="https://twitter.com/@SubhajitPanda26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/SUBHAJIT PANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
