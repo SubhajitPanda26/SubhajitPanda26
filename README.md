@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/SubhajitPanda26/SubhajitPanda26/blob/branch-1/github-header.png" height="auto" width="auto" />
 
 <h1 align="center">Hola! 👋, I'm Subhajit Panda</h1>
 <h3 align="center">a passionate developer with a love for coding...</h3>
