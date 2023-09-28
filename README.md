@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hola! 👋, I'm Subhajit Panda</h1>
-<h3 align="center">A passionate developer with a love for coding...</h3>
+<h3 align="center">a passionate developer with a love for coding...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhajitPanda26&label=Profile%20views&color=0e75b6&style=flat" alt="SubhajitPanda26" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhajitPanda26&show_icons=true&locale=en&theme=transparent" alt="SubhajitPanda26" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitPanda26&theme=transparent" alt="SubhajitPanda26" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
